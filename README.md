@@ -1,1 +1,1 @@
-Aula-09-criando-a-lambda-reservador-parte-2
+Teste de projeto E-commerce usando recursos da AWS - function lambda, SQS e SNS.
